@@ -1,5 +1,10 @@
 I tried to implement various approaches. 
 
+- Machine Learning Classifiers from the sci kit learn package(not the best results).
+
+
+Deep Learning Approaches:
+
 - One random approach by simpling adding Dense layers and relu activation functions.
 - Based on the results of the previous model, I tried to improve the model by adding Dropout layers and Early Stop.
 - Changed the activation functions and kernel initializers.
